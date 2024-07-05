@@ -512,7 +512,7 @@ $container-max-widths: (
 
 @include _assert-ascending($container-max-widths, "$container-max-widths");
 
-
+//djk author
 //added new width for mobile iphone 5 <=
 $max-width-mobile: (
   xxlsm:340px,
